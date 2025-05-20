@@ -14,7 +14,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
 ["5217771303481", 'MichiBot', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿
-["5217771303481"], 
+["5218134698139"], 
 ["5217771303481"],
 ["5217771303481"],
 ["5217771303481"],
@@ -114,8 +114,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = `MichiBot` //"𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
-global.author = `MichiBot` //"𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
+global.packname = `ThoruBot` //"𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
+global.author = `ThoruBot` //"𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -123,7 +123,7 @@ global.author = `MichiBot` //"𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "5.0 (Beta)"
-global.gt = "MichiBot"
+global.gt = "ThoruBot"
 global.imagen = fs.readFileSync('./Menu2.jpg')
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -150,8 +150,8 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "MichiBot"
-global.igfg = "MichiBot"
+global.wm = "ThoruBot"
+global.igfg = "ThoruBot"
 global.nomorown = "593993684821"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -443,7 +443,7 @@ global.fb = 'https://www.instagram.com/richetti_123'
 global.tk = 'https://www.instagram.com/richetti_123'
 global.ths = 'https://www.instagram.com/richetti_123'
 global.paypal = 'https://paypal.me/richetti123'
-global.asistencia = 'https://wa.me/5217771303481'
+global.asistencia = 'https://wa.me/5218134698139'
 global.all = 'https://www.instagram.com/richetti_123'
 global.canal1 = 'https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G'
 global.canal2 = 'https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G'
