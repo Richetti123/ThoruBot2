@@ -410,7 +410,7 @@ else return emotttt[results[0][0]];
 
 // IDs de canales
 global.ch = {
-ch1: '120363400536272752@newsletter',
+ch1: '120363420197698482@newsletter',
 ch2: '120363400536272752@newsletter',
 ch3: '120363400536272752@newsletter',
 ch4: '120363400536272752@newsletter',
@@ -445,15 +445,15 @@ global.ths = 'https://www.instagram.com/richetti_123'
 global.paypal = 'https://paypal.me/richetti123'
 global.asistencia = 'https://wa.me/5218134698139'
 global.all = 'https://www.instagram.com/richetti_123'
-global.canal1 = 'https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G'
-global.canal2 = 'https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G'
-global.canal3 = 'https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G'
-global.canal4 = 'https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G'
+global.canal1 = 'https://whatsapp.com/channel/0029VbApd4AD8SE0dTalTB0h'
+global.canal2 = 'https://whatsapp.com/channel/0029VbApd4AD8SE0dTalTB0h'
+global.canal3 = 'https://whatsapp.com/channel/0029VbApd4AD8SE0dTalTB0h'
+global.canal4 = 'https://whatsapp.com/channel/0029VbApd4AD8SE0dTalTB0h'
 
-global.soporteGB = "https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G"
-global.grupo1 = "https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G"
-global.grupo2 = "https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G"
-global.grupo_collab1 = "https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G"
-global.grupo_collab2 = "https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G"
-global.grupo_collab3 = "https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G"
-global.grupo_collab4 = "https://whatsapp.com/channel/0029Vb5KnEv0wajldteZlH0G"
+global.soporteGB = "https://whatsapp.com/channel/0029VbApd4AD8SE0dTalTB0h"
+global.grupo1 = "https://whatsapp.com/channel/0029VbApd4AD8SE0dTalTB0h"
+global.grupo2 = "https://whatsapp.com/channel/0029VbApd4AD8SE0dTalTB0h"
+global.grupo_collab1 = "https://whatsapp.com/channel/0029VbApd4AD8SE0dTalTB0h"
+global.grupo_collab2 = "https://whatsapp.com/channel/0029VbApd4AD8SE0dTalTB0h"
+global.grupo_collab3 = "https://whatsapp.com/channel/0029VbApd4AD8SE0dTalTB0h"
+global.grupo_collab4 = "https://whatsapp.com/channel/0029VbApd4AD8SE0dTalTB0h"
